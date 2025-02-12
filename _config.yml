@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Urtzi Enriquez-Urzelai"
+title                    : "Panama Bioresearch"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Urtzi Enriquez-Urzelai"
-description              : "Urtzi Enriquez-Urzelai's personal website"
+name                     : "Panama Bioresearch"
+description              : "Panama Bioresearch course website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,9 +108,9 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "/assets/images/picture.jpg"
-  bio              : "Evolutionary and physiological **ecologist**."
-  location         : "Studenec, Czechia"
+  avatar           : "/assets/images/nudi.jpg"
+  bio              : ""
+  location         : "Ciudad de Panamá, Panamá / Barcelona, España"
   email            :
   links:
     # - label: "Email"
@@ -122,19 +122,19 @@ author:
     - label: "Twitter" # 
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/urenur1"
-    - label: "GitHub" # 
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/urtzienriquez"
+    # - label: "GitHub" # 
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/urtzienriquez"
     
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/urenur1"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/urtzienriquez"
+      url: "https://twitter.com/PanamaBioR"
+   # - label: "GitHub"
+   # icon: "fab fa-fw fa-github"
+   #  url: "https://github.com/urtzienriquez"
     
 
 # Reading Files
